@@ -10,6 +10,7 @@ import { PostJobPage } from './pages/PostJobPage';
 import { EmployerJobsPage } from './pages/EmployerJobsPage';
 import { JobApplicationsPage } from './pages/JobApplicationsPage';
 import { LogoutPage } from './pages/LogoutPage';
+import './App.css';
 
 function App() {
   return (
